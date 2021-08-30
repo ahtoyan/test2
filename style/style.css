@@ -1,0 +1,24 @@
+#header
+{
+  width: 900px;
+  height: 200px;
+  background-color: #d41212;
+  margin-bottom: 10px;
+  background-image: url(/Users/ahtoyan/Desktop/test2/images/ii.png)
+}
+  h1{
+  color: #0f0f0e;   /*цвет заголовка*/
+  font: 45px Impact; /* - шрифт*/
+  margin-left: 220px;  /*- отступ слева*/
+margin-right:100px ;  
+}
+.descript{
+  width: 300px; /* - ширина*/
+  color: #0f0f0e;  /*- цвет*/
+  font-style: bold; /* - курсив*/
+  margin: 100px 0px 0px 150px; /* - расположение*/
+  font-size:25px; /*- размер шрифта*/
+}
+img{position:absolute;
+top:-15px;
+left:-25px;}
